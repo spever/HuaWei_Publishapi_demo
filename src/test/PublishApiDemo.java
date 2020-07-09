@@ -20,14 +20,14 @@ public class PublishApiDemo {
     private static String domain = "https://connect-api.cloud.huawei.com/api";
 
     /**
-     * clientId
+     * 用户与访问->API密钥->Connect API中 clientId
      */
     private static String clientId = "345466383275918528";
 
     /**
-     * clientSecret
+     * 用户与访问->API密钥->Connect API中 clientSecret
      */
-    private static String clientSecret = "对应的appSecret";
+    private static String clientSecret = "对应的密钥";
 
     /**
      * App ID.
